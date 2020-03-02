@@ -1,0 +1,6 @@
+name: LOATweaks
+version: ${project.version}
+main: net.snofox.minecraft.loatweaks.LOATweaks
+api-version: 1.13
+authors: [SnoFox]
+description: Tweak Minecraft to make it harder
